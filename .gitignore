@@ -1,0 +1,6 @@
+# Prevent vscode settings
+.vscode/
+
+# Prevent binaries
+API/obj/
+API/bin/
