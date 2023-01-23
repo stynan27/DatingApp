@@ -4,5 +4,8 @@
 # Prevent binaries
 API/obj/
 API/bin/
+
+# Prevent upload of db file
 API/datingapp.db
+
 .fake
