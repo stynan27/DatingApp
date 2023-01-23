@@ -4,3 +4,5 @@
 # Prevent binaries
 API/obj/
 API/bin/
+API/datingapp.db
+.fake
