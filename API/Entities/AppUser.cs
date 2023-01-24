@@ -6,5 +6,7 @@ namespace API.Entities
         // If you would like to name otherwise, you can use the [Key] attribute.
         public int Id { get; set; }
         public string UserName { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public byte[] PasswordSalt { get; set; }
     }
 }
